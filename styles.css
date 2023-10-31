@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h1,
+ol {
+    color: rgb(180, 126, 25);
+    background-color: rgb(230, 230, 230);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ul,
+a {
+    background-color: rgb(180, 126, 25);   
+    color: rgb(230, 230, 230);
+}
+
+img {
+    height: auto;
+    width: auto;
+}
